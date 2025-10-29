@@ -108,8 +108,6 @@ Follow these steps to set up the project locally 👇
 * **Username:** admin
 * **Password:** admin123
 
-> ⚠️ *Change these credentials in your database for better security.*
-
 ---
 
 ## 💡 Future Improvements
@@ -131,8 +129,6 @@ You can include screenshots like:
 ![Product Page](assets/images/products.png)
 ![Admin Dashboard](assets/images/admin_panel.png)
 ```
-
-*(Add your own images in the `assets/images` folder and update these links.)*
 
 ---
 
