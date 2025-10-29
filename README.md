@@ -77,7 +77,7 @@ Follow these steps to set up the project locally 👇
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Cara.git
+   git clone [https://github.com/yourusername/Cara.git](https://github.com/ssijan/Cara-E-commerce-Website-for-Clothing/tree/master)
 ````
 
 2. **Move the project to your local server directory:**
