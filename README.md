@@ -38,3 +38,11 @@ Only the admin can manage products — adding, updating, or deleting items.
 
 ## 📂 Project Structure
 
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/Cara.git
+
